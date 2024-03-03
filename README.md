@@ -1,0 +1,2 @@
+# Notionstar
+notion.gun
